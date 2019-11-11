@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tomato Timer
 
 ## Instructions
@@ -49,5 +50,7 @@
   1. Every time the user starts a timer, the minutes of work and minutes of rest should be saved to localStorage.
 
   2. Upon page load, the minutes of work and minutes of rest input fields should be initialized to their previously stored values.
+=======
 # timer
 working &amp; resting timer
+>>>>>>> 8414f03504b71adea643d5e0fe877f4682d38315
